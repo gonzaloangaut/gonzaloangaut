@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 My name is Gonzalo Angaut
+
+## I'm a Physics PhD student interested in Data Science
 
 <!--
 **gonzaloangaut/gonzaloangaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
