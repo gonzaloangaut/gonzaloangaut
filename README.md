@@ -8,23 +8,23 @@ Physics graduate (MSc equivalent) transitioning into Applied AI and Data Science
 
 ## Featured Projects
 
-### Oncostreams
+### [Oncostreams](https://github.com/gonzaloangaut/oncostreams)
 Computational model of collective cell dynamics, studying phase transitions and emergent behavior.
 → Large-scale simulations and numerical modeling.
 
-### Oncostreams Analysis
+### [Oncostreams Analysis](https://github.com/gonzaloangaut/oncostreams_analysis)
 Data analysis of simulation outputs, focusing on collective behavior, clustering, and pattern extraction.
 → Data analysis and scientific computing.
 
-### DiploDatos
+### [DiploDatos](https://github.com/gonzaloangaut/DiploDatos)
 Projects from a postgraduate diploma in Data Science and Machine Learning.
 → Deep Learning, NLP, Computer Vision, Reinforcement Learning.
 
-### Neural Networks
+### [Neural Networks](https://github.com/gonzaloangaut/NeuralNetworks) 
 Coursework and experiments with neural networks.
 → PyTorch, supervised learning, model training.
 
-### Medical Chatbot
+### [Medical Chatbot](https://github.com/gonzaloangaut/medical_chatbot_sim)
 Prototype chatbot project applying NLP techniques.
 → Language models and applied AI.
 
