@@ -1,18 +1,33 @@
-## Hi there 👋 My name is Gonzalo Angaut
+# Hi, I'm Gonzalo 👋
 
-### I'm a Physics PhD student interested in Data Science
+Physics graduate (MSc equivalent) transitioning into Applied AI and Data Science.
 
-<!--
-**gonzaloangaut/gonzaloangaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Background in computational modeling and large-scale simulations  
+- Experience in Machine Learning (Deep Learning, Computer Vision, Reinforcement Learning)  
+- Interested in data-driven modeling and real-world systems  
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Oncostreams
+Computational model of collective cell dynamics, studying phase transitions and emergent behavior.
+→ Large-scale simulations and numerical modeling.
+
+### Oncostreams Analysis
+Data analysis of simulation outputs, focusing on collective behavior, clustering, and pattern extraction.
+→ Data analysis and scientific computing.
+
+### DiploDatos
+Projects from a postgraduate diploma in Data Science and Machine Learning.
+→ Deep Learning, NLP, Computer Vision, Reinforcement Learning.
+
+### Neural Networks
+Coursework and experiments with neural networks.
+→ PyTorch, supervised learning, model training.
+
+### Medical Chatbot
+Prototype chatbot project applying NLP techniques.
+→ Language models and applied AI.
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/gonzalo-angaut-5b0427246/)
